@@ -1,0 +1,56 @@
+.navbar-fondo {
+    background-color: #353A40;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.encabezado {
+    position: absolute;
+    top: 44%;
+    right: 150px;
+    text-align: end;
+    color: white;
+    z-index: 2;
+}
+
+.grid-css {
+    margin: 40px 0px;
+}
+
+.columna1 {
+    border: 2px;
+    width: 220px;
+    height: 190px;
+    border-style: solid;
+    border-color: blue;
+    padding-top: 20px;
+}
+
+.columna2 {
+    border: 2px;
+    width: 220px;
+    height: 190px;
+    border-style: solid;
+    border-color: aqua;
+    padding-top: 20px;
+}
+
+.columna3 {
+    border: 2px;
+    width: 220px;
+    height: 190px;
+    border-style: solid;
+    border-color: goldenrod;
+    padding-top: 20px;
+}
+
+
+
+
+.bg-footer {
+    background-color: #1C3846;
+    color: white !important;
+    padding: 20px;
+}
